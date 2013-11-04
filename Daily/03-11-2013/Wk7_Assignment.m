@@ -2,8 +2,8 @@ clear all; clc
 
 %% load and restrict the data
 
-cd('C:/Users/Syaheed/Documents/GitHub/BIOL680/Data/R016-2012-10-08');
-fname = 'R016-2012-10-08-CSC04a.Ncs';
+cd('C:/Users/Syaheed/Documents/GitHub/BIOL680/Data/R016-2012-10-03');
+fname = 'R016-2012-10-03-CSC04a.Ncs';
 csc = myLoadCSC(fname);
 
 cd('C:/Users/Syaheed/Documents/GitHub/BIOL680/Daily/03-11-2013');
